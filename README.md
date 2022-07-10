@@ -2,7 +2,8 @@
 
 I‘m a master student major in CS.
 
-[![Fantast's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fantast416&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fantast416&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Fantast416&show_icons=true&hide_border=true" alt="Fantast's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fantast416&hide=html&layout=compact&hide_border=true" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 **About Me:**
 

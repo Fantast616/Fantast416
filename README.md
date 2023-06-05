@@ -6,13 +6,10 @@ I‘m a master student major in CS.
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 **About Me:**
-
-- 👉 Some Personal Study Notes: [Fantast's Blog](https://blog.fantast.top/)
-
 - 🎉 My Lab: [Next Lab](http://next.zju.edu.cn/)
 - ✉️ Contact Me: fantast416@outlook.com
 
 **Top Repositories:**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuniumLuk&repo=xfield-pytorch)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fantast416&repo=screen-scanner)](https://github.com/anuraghazra/github-readme-stats)
 
